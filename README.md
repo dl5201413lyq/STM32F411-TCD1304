@@ -1,2 +1,3 @@
 # STM32F411-TCD1304
 Full STM32F411 project files and CubeMX configuration files are available here, along with a matching host computer software.
+TCD1304.RAR文件中包含了有关该项目的所有内容。需要注意的是，由于使用电路板的特殊性，我所产生的ICG与SH与驱动TCD1304所需的驱动电平刚好相反......
